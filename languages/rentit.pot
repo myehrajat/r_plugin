@@ -1,0 +1,2130 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Rentit\n"
+"POT-Creation-Date: 2018-01-14 10:18+0200\n"
+"PO-Revision-Date: 2018-01-14 10:18+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.4\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: index.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: VC_custum-data.php:18
+msgid "Rentit porfolio"
+msgstr ""
+
+#: VC_custum-data.php:22 VC_custum-data.php:46 VC_custum-data.php:69
+#: VC_custum-data.php:137 VC_custum-data.php:233 VC_custum-data.php:311
+#: VC_custum-data.php:388 VC_custum-data.php:465 VC_custum-data.php:534
+#: VC_custum-data.php:627 VC_custum-data.php:666 VC_custum-data.php:719
+#: VC_custum-data.php:773 VC_custum-data.php:831 VC_custum-data.php:865
+#: VC_custum-data.php:1036 VC_custum-data.php:1112 VC_custum-data.php:1154
+#: VC_custum-data.php:1189 VC_custum-data.php:1263 VC_custum-data.php:1286
+#: VC_custum-data.php:1325 VC_custum-data.php:1368 VC_custum-data.php:1406
+#: VC_custum-data.php:1431 VC_custum-data.php:1489 VC_custum-data.php:1524
+#: VC_custum-data.php:1563 VC_custum-data.php:1600 VC_custum-data.php:1637
+#: VC_custum-data.php:1684 VC_custum-data.php:1702 VC_custum-data.php:1729
+#: VC_custum-data.php:1757 VC_custum-data.php:1773 VC_custum-data.php:1799
+#: VC_custum-data.php:1922 VC_custum-data.php:2706
+#: shortcodes/Rental_Offers.php:161 shortcodes/contact-form.php:166
+#: shortcodes/rentit-vc-post-carousel.php:24
+#: shortcodes/rentit-vc-simple-message-box.php:138
+#: shortcodes/rentit_tabs.php:495 shortcodes/rentit_vc_button.php:111
+#: shortcodes/team.php:256
+msgid "Rent It"
+msgstr ""
+
+#: VC_custum-data.php:27
+msgid "Select type portfolio"
+msgstr ""
+
+#: VC_custum-data.php:29
+msgid "standard 3 column"
+msgstr ""
+
+#: VC_custum-data.php:30
+msgid "4 column "
+msgstr ""
+
+#: VC_custum-data.php:31
+msgid "alt"
+msgstr ""
+
+#: VC_custum-data.php:42
+msgid "page section slider with filters"
+msgstr ""
+
+#: VC_custum-data.php:53 VC_custum-data.php:471 VC_custum-data.php:608
+#: VC_custum-data.php:2386 VC_custum-data.php:2478
+#: shortcodes/contact-form.php:215
+msgid "Text"
+msgstr ""
+
+#: VC_custum-data.php:56
+msgid "insert url img"
+msgstr ""
+
+#: VC_custum-data.php:65
+msgid "Rentit slider ver1"
+msgstr ""
+
+#: VC_custum-data.php:79 VC_custum-data.php:147 VC_custum-data.php:243
+#: VC_custum-data.php:329 VC_custum-data.php:394 VC_custum-data.php:558
+#: VC_custum-data.php:1497 VC_custum-data.php:1928
+msgid "Images"
+msgstr ""
+
+#: VC_custum-data.php:82 VC_custum-data.php:150 VC_custum-data.php:246
+#: VC_custum-data.php:332 VC_custum-data.php:397 VC_custum-data.php:561
+#: VC_custum-data.php:705 VC_custum-data.php:758 VC_custum-data.php:1500
+#: VC_custum-data.php:1930
+msgid "Select images from media library."
+msgstr ""
+
+#: VC_custum-data.php:88 VC_custum-data.php:155 VC_custum-data.php:251
+#: VC_custum-data.php:321 VC_custum-data.php:402
+msgid ""
+"Insert video youtube url for example https://www.youtube.com/"
+"embed/8Q1gMEqlJtA "
+msgstr ""
+
+#: VC_custum-data.php:91 VC_custum-data.php:158 VC_custum-data.php:213
+#: VC_custum-data.php:254 VC_custum-data.php:324 VC_custum-data.php:405
+#: VC_custum-data.php:442 VC_custum-data.php:516 VC_custum-data.php:579
+#: VC_custum-data.php:597 VC_custum-data.php:1779 VC_custum-data.php:2169
+#: VC_custum-data.php:2577 VC_custum-data.php:2645
+msgid "insert url"
+msgstr ""
+
+#: VC_custum-data.php:96 VC_custum-data.php:174 VC_custum-data.php:269
+#: VC_custum-data.php:347 VC_custum-data.php:420
+msgid "Text small"
+msgstr ""
+
+#: VC_custum-data.php:98 shortcodes/slider-filter1.php:40
+msgid "All Discounts Just For You"
+msgstr ""
+
+#: VC_custum-data.php:99 VC_custum-data.php:107 VC_custum-data.php:115
+#: VC_custum-data.php:124 VC_custum-data.php:168 VC_custum-data.php:177
+#: VC_custum-data.php:186 VC_custum-data.php:195 VC_custum-data.php:222
+#: VC_custum-data.php:263 VC_custum-data.php:272 VC_custum-data.php:281
+#: VC_custum-data.php:290 VC_custum-data.php:341 VC_custum-data.php:350
+#: VC_custum-data.php:359 VC_custum-data.php:368 VC_custum-data.php:414
+#: VC_custum-data.php:423 VC_custum-data.php:451 VC_custum-data.php:545
+#: VC_custum-data.php:554 VC_custum-data.php:570 VC_custum-data.php:588
+#: VC_custum-data.php:637 VC_custum-data.php:646 VC_custum-data.php:783
+#: VC_custum-data.php:810 VC_custum-data.php:841 VC_custum-data.php:850
+#: VC_custum-data.php:875 VC_custum-data.php:884 VC_custum-data.php:1048
+#: VC_custum-data.php:1058 VC_custum-data.php:1068 VC_custum-data.php:1078
+#: VC_custum-data.php:1088 VC_custum-data.php:1098 VC_custum-data.php:1122
+#: VC_custum-data.php:1131 VC_custum-data.php:1538 VC_custum-data.php:1547
+#: VC_custum-data.php:1576 VC_custum-data.php:1585 VC_custum-data.php:1613
+#: VC_custum-data.php:1622 VC_custum-data.php:2028 VC_custum-data.php:2052
+#: VC_custum-data.php:2097 VC_custum-data.php:2133 VC_custum-data.php:2193
+#: VC_custum-data.php:2227 VC_custum-data.php:2260 VC_custum-data.php:2285
+#: VC_custum-data.php:2327 VC_custum-data.php:2369 VC_custum-data.php:2389
+#: VC_custum-data.php:2422 VC_custum-data.php:2454 VC_custum-data.php:2472
+#: VC_custum-data.php:2481 VC_custum-data.php:2504 VC_custum-data.php:2513
+#: VC_custum-data.php:2535 VC_custum-data.php:2559 VC_custum-data.php:2600
+#: VC_custum-data.php:2627 VC_custum-data.php:2727
+msgid "insert text"
+msgstr ""
+
+#: VC_custum-data.php:104 VC_custum-data.php:165 VC_custum-data.php:260
+#: VC_custum-data.php:338 VC_custum-data.php:411
+msgid "Text big"
+msgstr ""
+
+#: VC_custum-data.php:106 VC_custum-data.php:176
+#: shortcodes/slider-filter1.php:41 shortcodes/slider-filter1.php:246
+msgid "Find Best Rental Car"
+msgstr ""
+
+#: VC_custum-data.php:112 VC_custum-data.php:183 VC_custum-data.php:278
+#: VC_custum-data.php:356 VC_custum-data.php:1535 VC_custum-data.php:1573
+msgid "Text of search"
+msgstr ""
+
+#: VC_custum-data.php:114 VC_custum-data.php:185 VC_custum-data.php:280
+#: VC_custum-data.php:358 VC_custum-data.php:1537 VC_custum-data.php:1575
+#: shortcodes/CONTACT_US.php:10 shortcodes/on-gmap.php:21
+#: shortcodes/slider-filter1.php:42 shortcodes/slider-filter1.php:247
+#: shortcodes/slider-filter1.php:442 shortcodes/slider-filter1.php:662
+#: shortcodes/slider-filter1.php:742
+msgid "Search for Cheap Rental Cars Wherever Your Are"
+msgstr ""
+
+#: VC_custum-data.php:121 VC_custum-data.php:192 VC_custum-data.php:287
+#: VC_custum-data.php:365 VC_custum-data.php:1544 VC_custum-data.php:1582
+#: VC_custum-data.php:1783
+msgid "Text button"
+msgstr ""
+
+#: VC_custum-data.php:123 VC_custum-data.php:194 VC_custum-data.php:289
+#: VC_custum-data.php:367 VC_custum-data.php:1546 VC_custum-data.php:1584
+#: shortcodes/on-gmap.php:23 shortcodes/slider-filter1.php:44
+#: shortcodes/slider-filter1.php:249 shortcodes/slider-filter1.php:444
+#: shortcodes/slider-filter1.php:664 shortcodes/slider-filter1.php:744
+msgid " Find Car"
+msgstr ""
+
+#: VC_custum-data.php:133
+msgid "Rentit slider ver2"
+msgstr ""
+
+#: VC_custum-data.php:167 shortcodes/slider-filter1.php:245
+msgid "Find Your Car! Rent A Car Theme"
+msgstr ""
+
+#: VC_custum-data.php:201 VC_custum-data.php:296 VC_custum-data.php:374
+#: VC_custum-data.php:430 VC_custum-data.php:481
+msgid "description"
+msgstr ""
+
+#: VC_custum-data.php:204 VC_custum-data.php:299 VC_custum-data.php:377
+#: VC_custum-data.php:433 VC_custum-data.php:484 VC_custum-data.php:1669
+#: VC_custum-data.php:1713 VC_custum-data.php:1740
+msgid "insert description"
+msgstr ""
+
+#: VC_custum-data.php:210 VC_custum-data.php:439
+msgid "button url"
+msgstr ""
+
+#: VC_custum-data.php:212 VC_custum-data.php:441 VC_custum-data.php:515
+msgid "#"
+msgstr ""
+
+#: VC_custum-data.php:219 VC_custum-data.php:448
+msgid "Text button url"
+msgstr ""
+
+#: VC_custum-data.php:221 VC_custum-data.php:450 VC_custum-data.php:569
+#: shortcodes/present_block.php:12 shortcodes/slider-filter1.php:251
+#: shortcodes/slider-filter1.php:666
+msgid "See All Vehicles"
+msgstr ""
+
+#: VC_custum-data.php:229
+msgid "Rentit slider ver3"
+msgstr ""
+
+#: VC_custum-data.php:262 VC_custum-data.php:340 VC_custum-data.php:413
+#: shortcodes/slider-filter1.php:440 shortcodes/slider-filter1.php:660
+#: shortcodes/slider-filter1.php:740
+msgid "Best Deals"
+msgstr ""
+
+#: VC_custum-data.php:271 VC_custum-data.php:349 VC_custum-data.php:422
+#: shortcodes/slider-filter1.php:441 shortcodes/slider-filter1.php:661
+#: shortcodes/slider-filter1.php:741
+msgid "For rental Cars"
+msgstr ""
+
+#: VC_custum-data.php:298 VC_custum-data.php:376 VC_custum-data.php:432
+#: shortcodes/slider-filter1.php:436 shortcodes/slider-filter1.php:656
+#: shortcodes/slider-filter1.php:736
+msgid "Sales Up %45 Off"
+msgstr ""
+
+#: VC_custum-data.php:298 VC_custum-data.php:376 VC_custum-data.php:432
+#: shortcodes/slider-filter1.php:436 shortcodes/slider-filter1.php:656
+#: shortcodes/slider-filter1.php:736
+msgid "All Rental Cars Start from 49$"
+msgstr ""
+
+#: VC_custum-data.php:307
+msgid "Rentit slider ver3_2"
+msgstr ""
+
+#: VC_custum-data.php:384
+msgid "Rentit slider ver4"
+msgstr ""
+
+#: VC_custum-data.php:461
+msgid "Rent It gray blocks"
+msgstr ""
+
+#: VC_custum-data.php:474 VC_custum-data.php:494
+msgid "insert title"
+msgstr ""
+
+#: VC_custum-data.php:491
+msgid "The text on the button"
+msgstr ""
+
+#: VC_custum-data.php:493 shortcodes/flipInY.php:11 shortcodes/flipInY.php:17
+msgid "Read More"
+msgstr ""
+
+#: VC_custum-data.php:498 VC_custum-data.php:891
+msgid "The icons 1 "
+msgstr ""
+
+#: VC_custum-data.php:501 VC_custum-data.php:894 VC_custum-data.php:936
+#: VC_custum-data.php:970
+msgid "insert icon"
+msgstr ""
+
+#: VC_custum-data.php:513
+msgid "The url on the button"
+msgstr ""
+
+#: VC_custum-data.php:528
+msgid "Present block with slider "
+msgstr ""
+
+#: VC_custum-data.php:542
+msgid "small headline"
+msgstr ""
+
+#: VC_custum-data.php:544 shortcodes/present_block.php:9
+msgid "What Do You Know About Us"
+msgstr ""
+
+#: VC_custum-data.php:551 VC_custum-data.php:807 VC_custum-data.php:847
+#: VC_custum-data.php:881 VC_custum-data.php:1128
+msgid "Big heading"
+msgstr ""
+
+#: VC_custum-data.php:553 shortcodes/present_block.php:10
+msgid "Who We Are ?"
+msgstr ""
+
+#: VC_custum-data.php:567
+msgid "The text of the first button"
+msgstr ""
+
+#: VC_custum-data.php:576
+msgid "The url of the first button"
+msgstr ""
+
+#: VC_custum-data.php:585
+msgid "The text of the second button"
+msgstr ""
+
+#: VC_custum-data.php:587 shortcodes/Rental_Fleet_cars.php:586
+#: shortcodes/present_block.php:13
+msgid "Reservation Now"
+msgstr ""
+
+#: VC_custum-data.php:594
+msgid "The url of the second button"
+msgstr ""
+
+#: VC_custum-data.php:602 VC_custum-data.php:674 VC_custum-data.php:727
+#: shortcodes/contact-form.php:202 shortcodes/team.php:207
+msgid "Other Contact Details"
+msgstr ""
+
+#: VC_custum-data.php:610
+msgid "insert text steps"
+msgstr ""
+
+#: VC_custum-data.php:623 VC_custum-data.php:645
+#: shortcodes/Rental_Offers.php:19 shortcodes/statistics.php:18
+msgid "Great Rental Offers for You"
+msgstr ""
+
+#: VC_custum-data.php:634
+msgid "Small text title"
+msgstr ""
+
+#: VC_custum-data.php:636 shortcodes/Rental_Offers.php:18
+#: shortcodes/statistics.php:17
+msgid "What a Kind of Car You Want"
+msgstr ""
+
+#: VC_custum-data.php:643
+msgid "Text large title"
+msgstr ""
+
+#: VC_custum-data.php:652
+msgid "Insert  product cat id "
+msgstr ""
+
+#: VC_custum-data.php:655
+msgid "insert  number for example 5,6,9"
+msgstr ""
+
+#: VC_custum-data.php:662
+msgid "Rent It Testimonials full block"
+msgstr ""
+
+#: VC_custum-data.php:680 VC_custum-data.php:733 VC_custum-data.php:2058
+#: shortcodes/CONTACT_US.php:41 shortcodes/CONTACT_US.php:43
+#: shortcodes/contact-form.php:68 shortcodes/contact-form.php:71
+#: shortcodes/contact-form.php:275 shortcodes/contact-form.php:278
+#: shortcodes/team.php:163
+msgid "Name"
+msgstr ""
+
+#: VC_custum-data.php:682 VC_custum-data.php:735
+msgid "Label cometns E.g. John Anthony Gibson "
+msgstr ""
+
+#: VC_custum-data.php:687 VC_custum-data.php:740
+msgid "testimonial position"
+msgstr ""
+
+#: VC_custum-data.php:689 VC_custum-data.php:742
+msgid "Co- founder at Rent It"
+msgstr ""
+
+#: VC_custum-data.php:694 VC_custum-data.php:696 VC_custum-data.php:747
+#: VC_custum-data.php:749
+msgid "Comment"
+msgstr ""
+
+#: VC_custum-data.php:702 VC_custum-data.php:755
+msgid "Images Avatar"
+msgstr ""
+
+#: VC_custum-data.php:715
+msgid "Rent It Testimonials full block v2"
+msgstr ""
+
+#: VC_custum-data.php:769 VC_custum-data.php:809 VC_custum-data.php:849
+#: VC_custum-data.php:883 shortcodes/Rental_Fleet_cars.php:25
+msgid "Our awesome Rental Fleet cars"
+msgstr ""
+
+#: VC_custum-data.php:780 VC_custum-data.php:838 VC_custum-data.php:872
+#: VC_custum-data.php:1045 VC_custum-data.php:1119
+msgid "Small headline"
+msgstr ""
+
+#: VC_custum-data.php:782 VC_custum-data.php:840 VC_custum-data.php:874
+#: shortcodes/Rental_Fleet_cars.php:23
+msgid "Select What You Want"
+msgstr ""
+
+#: VC_custum-data.php:789
+msgid "insert number to select cats"
+msgstr ""
+
+#: VC_custum-data.php:792
+msgid "insert number example 1"
+msgstr ""
+
+#: VC_custum-data.php:798
+msgid "insert number to select left isms"
+msgstr ""
+
+#: VC_custum-data.php:801 VC_custum-data.php:2070
+msgid "insert number example 3"
+msgstr ""
+
+#: VC_custum-data.php:814
+msgid "Group"
+msgstr ""
+
+#: VC_custum-data.php:816
+msgid "Product cat"
+msgstr ""
+
+#: VC_custum-data.php:817
+msgid "Product group"
+msgstr ""
+
+#: VC_custum-data.php:827 VC_custum-data.php:861
+msgid "Statistics block"
+msgstr ""
+
+#: VC_custum-data.php:905
+msgid "Statistics number 1"
+msgstr ""
+
+#: VC_custum-data.php:907 VC_custum-data.php:949
+msgid "5657"
+msgstr ""
+
+#: VC_custum-data.php:908 VC_custum-data.php:950 VC_custum-data.php:985
+#: VC_custum-data.php:1009
+msgid "insert numbers "
+msgstr ""
+
+#: VC_custum-data.php:915
+msgid "Statistics title 1"
+msgstr ""
+
+#: VC_custum-data.php:917 VC_custum-data.php:927 shortcodes/statistics.php:20
+msgid "Happy costumers"
+msgstr ""
+
+#: VC_custum-data.php:918 VC_custum-data.php:928 VC_custum-data.php:962
+#: VC_custum-data.php:1018
+msgid "insert text "
+msgstr ""
+
+#: VC_custum-data.php:925
+msgid "Statistics title 2"
+msgstr ""
+
+#: VC_custum-data.php:933 VC_custum-data.php:967
+msgid "The icons 3 "
+msgstr ""
+
+#: VC_custum-data.php:947
+msgid "Statistics number 2"
+msgstr ""
+
+#: VC_custum-data.php:959
+msgid "Statistics title 3"
+msgstr ""
+
+#: VC_custum-data.php:961 shortcodes/statistics.php:24
+msgid "Total KM/MIL"
+msgstr ""
+
+#: VC_custum-data.php:982
+msgid "Statistics number 3"
+msgstr ""
+
+#: VC_custum-data.php:984 shortcodes/statistics.php:23
+msgid "1.255.657"
+msgstr ""
+
+#: VC_custum-data.php:991
+msgid "The icons 4 "
+msgstr ""
+
+#: VC_custum-data.php:994
+msgid "insert icon for example (fa-car)"
+msgstr ""
+
+#: VC_custum-data.php:1006 VC_custum-data.php:1015
+msgid "Statistics number 4"
+msgstr ""
+
+#: VC_custum-data.php:1008 shortcodes/statistics.php:25
+msgid "1255"
+msgstr ""
+
+#: VC_custum-data.php:1017 shortcodes/statistics.php:26
+msgid "Call Center Solutions"
+msgstr ""
+
+#: VC_custum-data.php:1032
+msgid "rentit section find car map"
+msgstr ""
+
+#: VC_custum-data.php:1047 shortcodes/map_1.php:20
+msgid "Great Rental Cars"
+msgstr ""
+
+#: VC_custum-data.php:1055
+msgid "Big headline"
+msgstr ""
+
+#: VC_custum-data.php:1057 shortcodes/map_1.php:21
+msgid "FIND YOUR CAR"
+msgstr ""
+
+#: VC_custum-data.php:1065
+msgid "Picking Up Locatio"
+msgstr ""
+
+#: VC_custum-data.php:1067 shortcodes/map_1.php:22 shortcodes/on-gmap.php:47
+#: shortcodes/slider-filter1.php:118 shortcodes/slider-filter1.php:305
+#: shortcodes/slider-filter1.php:499 shortcodes/slider-filter1.php:832
+#: wc_CustomData.php:522 wc_CustomData.php:564
+msgid "Picking Up Location"
+msgstr ""
+
+#: VC_custum-data.php:1075 VC_custum-data.php:1077 shortcodes/map_1.php:23
+#: wc_CustomData.php:562
+msgid "Picking Up Date"
+msgstr ""
+
+#: VC_custum-data.php:1085 VC_custum-data.php:1087 shortcodes/map_1.php:24
+msgid "Price Category"
+msgstr ""
+
+#: VC_custum-data.php:1095 VC_custum-data.php:1097 shortcodes/map_1.php:25
+msgid "Find Car"
+msgstr ""
+
+#: VC_custum-data.php:1108
+msgid "Section title"
+msgstr ""
+
+#: VC_custum-data.php:1135
+msgid "Text Align"
+msgstr ""
+
+#: VC_custum-data.php:1137 shortcodes/rentit_tabs.php:599
+msgid "Center"
+msgstr ""
+
+#: VC_custum-data.php:1138 shortcodes/rentit_tabs.php:597
+msgid "Left"
+msgstr ""
+
+#: VC_custum-data.php:1139 shortcodes/rentit_tabs.php:598
+msgid "Right"
+msgstr ""
+
+#: VC_custum-data.php:1150
+msgid "rentit Accordion section"
+msgstr ""
+
+#: VC_custum-data.php:1162 VC_custum-data.php:1197 VC_custum-data.php:1331
+#: VC_custum-data.php:1412 shortcodes/contact-form.php:172
+#: shortcodes/rentit-vc-post-carousel.php:29 shortcodes/rentit_tabs.php:501
+msgid "Widget title"
+msgstr ""
+
+#: VC_custum-data.php:1163 VC_custum-data.php:1198 VC_custum-data.php:1332
+#: VC_custum-data.php:1413 shortcodes/rentit_tabs.php:502
+msgid "Enter text used as widget title (Note: located above content element)."
+msgstr ""
+
+#: VC_custum-data.php:1169 VC_custum-data.php:1204 VC_custum-data.php:1338
+#: shortcodes/contact-form.php:179
+msgid "Enter description text"
+msgstr ""
+
+#: VC_custum-data.php:1185
+msgid "Recent Blog Posts"
+msgstr ""
+
+#: VC_custum-data.php:1222 shortcodes/contact-form.php:17
+msgid ""
+" This is Photoshop's version of Lorem Ipsum. Proin gravida nibh vel velit "
+"auctor aliquet. Aenean\n"
+"                sollicitudin, lorem quis bibendum auctor, nisi elit "
+"consequat ipsum."
+msgstr ""
+
+#: VC_custum-data.php:1230 shortcodes/contact-form.php:25
+msgid " Adress: 1600 Pennsylvania Ave NW, Washington, D.C."
+msgstr ""
+
+#: VC_custum-data.php:1235 shortcodes/contact-form.php:30
+msgid "DC 20500, ABD"
+msgstr ""
+
+#: VC_custum-data.php:1239 shortcodes/contact-form.php:34
+msgid "Support Phone: 01865 339665"
+msgstr ""
+
+#: VC_custum-data.php:1243 shortcodes/contact-form.php:38
+msgid "E mails: info@example.com"
+msgstr ""
+
+#: VC_custum-data.php:1248 shortcodes/contact-form.php:43
+msgid "Working Hours: 09:30-21:00 except on Sundays"
+msgstr ""
+
+#: VC_custum-data.php:1252 shortcodes/contact-form.php:47
+msgid "View on The Map"
+msgstr ""
+
+#: VC_custum-data.php:1259 VC_custum-data.php:1282
+msgid "Rent It contact form"
+msgstr ""
+
+#: VC_custum-data.php:1270 VC_custum-data.php:1294
+msgid "Enter html"
+msgstr ""
+
+#: VC_custum-data.php:1302 shortcodes/contact-form.php:193
+msgid "Show subject ?"
+msgstr ""
+
+#: VC_custum-data.php:1304 shortcodes/contact-form.php:195
+msgid "Show subject"
+msgstr ""
+
+#: VC_custum-data.php:1305 shortcodes/contact-form.php:196
+msgid "Hide subject"
+msgstr ""
+
+#: VC_custum-data.php:1315
+msgid "rentit Accordion"
+msgstr ""
+
+#: VC_custum-data.php:1326 VC_custum-data.php:1369 VC_custum-data.php:1407
+#: VC_custum-data.php:2658 VC_custum-data.php:2707
+msgid "Collapsible content panels"
+msgstr ""
+
+#: VC_custum-data.php:1346
+msgid "Select type accordion"
+msgstr ""
+
+#: VC_custum-data.php:1348
+msgid "half width"
+msgstr ""
+
+#: VC_custum-data.php:1349
+msgid "full width"
+msgstr ""
+
+#: VC_custum-data.php:1363
+msgid "Rent It container"
+msgstr ""
+
+#: VC_custum-data.php:1375 shortcodes/rentit_tabs.php:508
+msgid "Classic"
+msgstr ""
+
+#: VC_custum-data.php:1376
+msgid "parallax image"
+msgstr ""
+
+#: VC_custum-data.php:1377
+msgid "dark"
+msgstr ""
+
+#: VC_custum-data.php:1378
+msgid "contact dark"
+msgstr ""
+
+#: VC_custum-data.php:1382
+msgid "display style "
+msgstr ""
+
+#: VC_custum-data.php:1383
+msgid "Select display style."
+msgstr ""
+
+#: VC_custum-data.php:1389 VC_custum-data.php:1910 VC_custum-data.php:1957
+#: VC_custum-data.php:2662 shortcodes/contact-form.php:186
+#: shortcodes/rentit-vc-post-carousel.php:52
+#: shortcodes/rentit-vc-simple-message-box.php:127 shortcodes/team.php:245
+msgid "Css"
+msgstr ""
+
+#: VC_custum-data.php:1391 VC_custum-data.php:1912 VC_custum-data.php:1959
+#: VC_custum-data.php:2664 shortcodes/contact-form.php:188
+#: shortcodes/rentit-vc-post-carousel.php:54
+#: shortcodes/rentit-vc-simple-message-box.php:129 shortcodes/team.php:247
+msgid "Design options"
+msgstr ""
+
+#: VC_custum-data.php:1401
+msgid "rentit ROW"
+msgstr ""
+
+#: VC_custum-data.php:1427
+msgid "SUBSCRIBE block"
+msgstr ""
+
+#: VC_custum-data.php:1440 VC_custum-data.php:1506 VC_custum-data.php:1905
+msgid "Content"
+msgstr ""
+
+#: VC_custum-data.php:1442
+msgid ""
+"This is Photoshop's version of Lorem Ipsum. Proin gravida nibh vel velit\n"
+"                auctor aliquet. Aenean sollicitudin, lorem quis bibendum "
+"auctor, nisi elit consequat ipsum,\n"
+"                nec sagittis sem nibh id elit. Duis sed odio sit amet nibh "
+"vulputate cursus a sit amet\n"
+"                mauris."
+msgstr ""
+
+#: VC_custum-data.php:1450
+msgid "button text"
+msgstr ""
+
+#: VC_custum-data.php:1451
+msgid "Enter text used as button"
+msgstr ""
+
+#: VC_custum-data.php:1465
+msgid "Kelly Doe Surname"
+msgstr ""
+
+#: VC_custum-data.php:1467
+msgid "Costumer Service"
+msgstr ""
+
+#: VC_custum-data.php:1471
+msgid "Skype: team.member"
+msgstr ""
+
+#: VC_custum-data.php:1474
+msgid "Tel: 555 555-5555"
+msgstr ""
+
+#: VC_custum-data.php:1477
+msgid " supportname@gmail.com"
+msgstr ""
+
+#: VC_custum-data.php:1485
+msgid "Rent It COSTUMER SERVICE"
+msgstr ""
+
+#: VC_custum-data.php:1520 VC_custum-data.php:1559
+msgid "Rent It on gma"
+msgstr ""
+
+#: VC_custum-data.php:1596
+msgid "Rent It contact us"
+msgstr ""
+
+#: VC_custum-data.php:1610
+msgid "Text left"
+msgstr ""
+
+#: VC_custum-data.php:1612 shortcodes/CONTACT_US.php:11
+msgid "Contact Us"
+msgstr ""
+
+#: VC_custum-data.php:1619
+msgid "Text right"
+msgstr ""
+
+#: VC_custum-data.php:1621 shortcodes/CONTACT_US.php:12
+msgid "Contact Form"
+msgstr ""
+
+#: VC_custum-data.php:1633
+msgid "Rent It contact us media"
+msgstr ""
+
+#: VC_custum-data.php:1645
+msgid "The icon "
+msgstr ""
+
+#: VC_custum-data.php:1648
+msgid "insert icon "
+msgstr ""
+
+#: VC_custum-data.php:1656
+msgid "Show icon?"
+msgstr ""
+
+#: VC_custum-data.php:1666 VC_custum-data.php:1710 VC_custum-data.php:1737
+msgid "Description"
+msgstr ""
+
+#: VC_custum-data.php:1680
+msgid "Rent It map v2"
+msgstr ""
+
+#: VC_custum-data.php:1698 VC_custum-data.php:1725
+msgid "Rent It text center lead"
+msgstr ""
+
+#: VC_custum-data.php:1753
+msgid "Rent It page divider"
+msgstr ""
+
+#: VC_custum-data.php:1769
+msgid "Rent It standard button"
+msgstr ""
+
+#: VC_custum-data.php:1777
+msgid "Insert url "
+msgstr ""
+
+#: VC_custum-data.php:1785
+msgid "Insert text"
+msgstr ""
+
+#: VC_custum-data.php:1796
+msgid "Rent It Iconic Info Box"
+msgstr ""
+
+#: VC_custum-data.php:1803
+msgid "Icon library"
+msgstr ""
+
+#: VC_custum-data.php:1805
+msgid "Font Awesome"
+msgstr ""
+
+#: VC_custum-data.php:1806
+msgid "Open Iconic"
+msgstr ""
+
+#: VC_custum-data.php:1807
+msgid "Typicons"
+msgstr ""
+
+#: VC_custum-data.php:1808
+msgid "Entypo"
+msgstr ""
+
+#: VC_custum-data.php:1809
+msgid "Linecons"
+msgstr ""
+
+#: VC_custum-data.php:1813
+msgid "Select icon library."
+msgstr ""
+
+#: VC_custum-data.php:1817 VC_custum-data.php:1832 VC_custum-data.php:1848
+#: VC_custum-data.php:1864 VC_custum-data.php:1879
+#: shortcodes/contact-form.php:207 shortcodes/team.php:184
+msgid "Icon"
+msgstr ""
+
+#: VC_custum-data.php:1828 VC_custum-data.php:1844 VC_custum-data.php:1860
+#: VC_custum-data.php:1891 shortcodes/contact-form.php:210
+msgid "Select icon from library."
+msgstr ""
+
+#: VC_custum-data.php:1897 VC_custum-data.php:2597 VC_custum-data.php:2599
+#: shortcodes/wigets_shortcode.php:548
+msgid "Title"
+msgstr ""
+
+#: VC_custum-data.php:1920
+msgid "Rent It Image Carousel"
+msgstr ""
+
+#: VC_custum-data.php:1924
+msgid "Animated carousel with images"
+msgstr ""
+
+#: VC_custum-data.php:1934
+msgid "Image Size"
+msgstr ""
+
+#: VC_custum-data.php:1936
+msgid "e.g. fullsize"
+msgstr ""
+
+#: VC_custum-data.php:1940 index.php:95
+msgid "Item"
+msgstr ""
+
+#: VC_custum-data.php:1942
+msgid "The number of items you want to see on the screen."
+msgstr ""
+
+#: VC_custum-data.php:1948 shortcodes/team.php:238
+msgid "Class"
+msgstr ""
+
+#: VC_custum-data.php:1953 shortcodes/rentit_vc_button.php:130
+msgid "Enter unique class."
+msgstr ""
+
+#: VC_custum-data.php:1998
+msgid "Rent It search widget"
+msgstr ""
+
+#: VC_custum-data.php:2002 VC_custum-data.php:2017 VC_custum-data.php:2041
+#: VC_custum-data.php:2086 VC_custum-data.php:2123 VC_custum-data.php:2183
+#: VC_custum-data.php:2217 VC_custum-data.php:2250 VC_custum-data.php:2275
+#: VC_custum-data.php:2317 VC_custum-data.php:2359 VC_custum-data.php:2412
+#: VC_custum-data.php:2444 VC_custum-data.php:2495 VC_custum-data.php:2526
+#: VC_custum-data.php:2550 VC_custum-data.php:2591 VC_custum-data.php:2657
+msgid "Rent It Widgets"
+msgstr ""
+
+#: VC_custum-data.php:2013
+msgid "Rent It CATEGORIES widget"
+msgstr ""
+
+#: VC_custum-data.php:2025 VC_custum-data.php:2049 VC_custum-data.php:2094
+#: VC_custum-data.php:2130 VC_custum-data.php:2190 VC_custum-data.php:2224
+#: VC_custum-data.php:2257 VC_custum-data.php:2282 VC_custum-data.php:2324
+#: VC_custum-data.php:2366 VC_custum-data.php:2451 VC_custum-data.php:2501
+#: VC_custum-data.php:2532
+msgid "title"
+msgstr ""
+
+#: VC_custum-data.php:2027 shortcodes/wigets_shortcode.php:36
+msgid "Categories"
+msgstr ""
+
+#: VC_custum-data.php:2037
+msgid "Rent It twiter widget"
+msgstr ""
+
+#: VC_custum-data.php:2051
+msgid "TWITTER"
+msgstr ""
+
+#: VC_custum-data.php:2061
+msgid "insert Name user"
+msgstr ""
+
+#: VC_custum-data.php:2067
+msgid "how shows twits?"
+msgstr ""
+
+#: VC_custum-data.php:2082
+msgid "Rent It ARCHIVES widget"
+msgstr ""
+
+#: VC_custum-data.php:2096
+msgid "ARCHIVES"
+msgstr ""
+
+#: VC_custum-data.php:2103
+msgid "how shows?"
+msgstr ""
+
+#: VC_custum-data.php:2106 VC_custum-data.php:2142
+msgid "insert number example 20"
+msgstr ""
+
+#: VC_custum-data.php:2119
+msgid "Rent It HELPING_CENTER widget"
+msgstr ""
+
+#: VC_custum-data.php:2132 shortcodes/wigets_shortcode.php:135
+msgid " HELPING CENTER"
+msgstr ""
+
+#: VC_custum-data.php:2139
+msgid "text"
+msgstr ""
+
+#: VC_custum-data.php:2141 shortcodes/wigets_shortcode.php:136
+msgid ""
+"Vivamus eget nibh. Etiam cursus leo vel metus. Nulla facilisi. Aenean nec "
+"eros."
+msgstr ""
+
+#: VC_custum-data.php:2148
+msgid "phone number"
+msgstr ""
+
+#: VC_custum-data.php:2151 VC_custum-data.php:2202 VC_custum-data.php:2618
+#: VC_custum-data.php:2636
+msgid "insert number"
+msgstr ""
+
+#: VC_custum-data.php:2157
+msgid "email"
+msgstr ""
+
+#: VC_custum-data.php:2160
+msgid "insert email"
+msgstr ""
+
+#: VC_custum-data.php:2166
+msgid "url"
+msgstr ""
+
+#: VC_custum-data.php:2179
+msgid "Rent It TESTIMONIALS widget"
+msgstr ""
+
+#: VC_custum-data.php:2192 shortcodes/wigets_shortcode.php:174
+msgid "TESTIMONIALS"
+msgstr ""
+
+#: VC_custum-data.php:2199
+msgid "How show testimonials?"
+msgstr ""
+
+#: VC_custum-data.php:2213
+msgid "Rent It TAGS widget"
+msgstr ""
+
+#: VC_custum-data.php:2226 shortcodes/wigets_shortcode.php:207
+msgid "TAGS"
+msgstr ""
+
+#: VC_custum-data.php:2231
+msgid "Select type tag"
+msgstr ""
+
+#: VC_custum-data.php:2233
+msgid "Post tags"
+msgstr ""
+
+#: VC_custum-data.php:2234
+msgid "Product tags"
+msgstr ""
+
+#: VC_custum-data.php:2246
+msgid "Rent It ITEM TAGS widget"
+msgstr ""
+
+#: VC_custum-data.php:2259 shortcodes/wigets_shortcode.php:385
+msgid "ITEM TAGS"
+msgstr ""
+
+#: VC_custum-data.php:2271 VC_custum-data.php:2313
+msgid "Rent It Flickr Images widget"
+msgstr ""
+
+#: VC_custum-data.php:2284 VC_custum-data.php:2326 VC_custum-data.php:2368
+#: shortcodes/wigets_shortcode.php:239
+msgid "FLICKR IMAGES"
+msgstr ""
+
+#: VC_custum-data.php:2291 VC_custum-data.php:2300 VC_custum-data.php:2333
+#: VC_custum-data.php:2342
+msgid "How show images"
+msgstr ""
+
+#: VC_custum-data.php:2294 VC_custum-data.php:2336
+msgid "insert numbers max 12"
+msgstr ""
+
+#: VC_custum-data.php:2303 VC_custum-data.php:2345
+msgid "insert fliker id"
+msgstr ""
+
+#: VC_custum-data.php:2355
+msgid "Rent It ABOUT_US widget"
+msgstr ""
+
+#: VC_custum-data.php:2373
+msgid "Show social icon"
+msgstr ""
+
+#: VC_custum-data.php:2375
+msgid "Yes"
+msgstr ""
+
+#: VC_custum-data.php:2376
+msgid "No"
+msgstr ""
+
+#: VC_custum-data.php:2408
+msgid "Rent It menu  widget"
+msgstr ""
+
+#: VC_custum-data.php:2419
+msgid "Insert title"
+msgstr ""
+
+#: VC_custum-data.php:2421 shortcodes/wigets_shortcode.php:312
+msgid "INFORMATION"
+msgstr ""
+
+#: VC_custum-data.php:2426
+msgid "select menu to display"
+msgstr ""
+
+#: VC_custum-data.php:2440
+msgid "Rent It NEWS LETTER widget"
+msgstr ""
+
+#: VC_custum-data.php:2453 shortcodes/wigets_shortcode.php:345
+msgid "NEWS LETTER"
+msgstr ""
+
+#: VC_custum-data.php:2460 VC_custum-data.php:2510 VC_custum-data.php:2556
+msgid "text button"
+msgstr ""
+
+#: VC_custum-data.php:2463
+msgid "insert text_button"
+msgstr ""
+
+#: VC_custum-data.php:2469
+msgid "placeholder text"
+msgstr ""
+
+#: VC_custum-data.php:2491
+msgid "Rent It PRICE FILTER widget"
+msgstr ""
+
+#: VC_custum-data.php:2503 shortcodes/wigets_shortcode.php:418
+msgid "PRICE"
+msgstr ""
+
+#: VC_custum-data.php:2512 shortcodes/wigets_shortcode.php:419
+msgid "Filter"
+msgstr ""
+
+#: VC_custum-data.php:2522
+msgid "Rent It DETAIL RESERVATION widget"
+msgstr ""
+
+#: VC_custum-data.php:2534 shortcodes/wigets_shortcode.php:451
+#: shortcodes/wigets_shortcode.php:491
+msgid "DETAIL RESERVATION"
+msgstr ""
+
+#: VC_custum-data.php:2546
+msgid "Rent It Car tab widget"
+msgstr ""
+
+#: VC_custum-data.php:2558 shortcodes/wigets_shortcode.php:515
+msgid "View More"
+msgstr ""
+
+#: VC_custum-data.php:2565
+msgid "How show product"
+msgstr ""
+
+#: VC_custum-data.php:2568
+msgid "insert  number"
+msgstr ""
+
+#: VC_custum-data.php:2574
+msgid "url to more button"
+msgstr ""
+
+#: VC_custum-data.php:2587
+msgid "Rent Tabbed Post widget"
+msgstr ""
+
+#: VC_custum-data.php:2606
+msgid "Recent Posts title"
+msgstr ""
+
+#: VC_custum-data.php:2608 shortcodes/wigets_shortcode.php:549
+msgid "Recent Posts"
+msgstr ""
+
+#: VC_custum-data.php:2609
+msgid "insert  text"
+msgstr ""
+
+#: VC_custum-data.php:2615
+msgid "Recent Posts Limit"
+msgstr ""
+
+#: VC_custum-data.php:2624
+msgid "Popular Posts title"
+msgstr ""
+
+#: VC_custum-data.php:2626 shortcodes/wigets_shortcode.php:551
+msgid "Popular Posts"
+msgstr ""
+
+#: VC_custum-data.php:2633
+msgid "Popular Posts Limit"
+msgstr ""
+
+#: VC_custum-data.php:2642
+msgid "url to all post"
+msgstr ""
+
+#: VC_custum-data.php:2652
+msgid "Rent It wiget sidebar"
+msgstr ""
+
+#: VC_custum-data.php:2668
+msgid "Select class"
+msgstr ""
+
+#: VC_custum-data.php:2670 VC_custum-data.php:2671 VC_custum-data.php:2672
+msgid "col-md-3"
+msgstr ""
+
+#: VC_custum-data.php:2673
+msgid "col-md-4"
+msgstr ""
+
+#: VC_custum-data.php:2674
+msgid "col-md-5"
+msgstr ""
+
+#: VC_custum-data.php:2675
+msgid "col-md-6"
+msgstr ""
+
+#: VC_custum-data.php:2676
+msgid "col-md-7"
+msgstr ""
+
+#: VC_custum-data.php:2677
+msgid "col-md-8"
+msgstr ""
+
+#: VC_custum-data.php:2678
+msgid "col-md-9"
+msgstr ""
+
+#: VC_custum-data.php:2679
+msgid "col-md-10"
+msgstr ""
+
+#: VC_custum-data.php:2680
+msgid "col-md-11"
+msgstr ""
+
+#: VC_custum-data.php:2681
+msgid "col-md-12"
+msgstr ""
+
+#: VC_custum-data.php:2701
+msgid "Rent It one page section"
+msgstr ""
+
+#: VC_custum-data.php:2713 VC_custum-data.php:2718
+msgid "Enter unique id"
+msgstr ""
+
+#: VC_custum-data.php:2724
+msgid "Title section"
+msgstr ""
+
+#: VC_custum-data.php:2732
+msgid "showing the right menu?"
+msgstr ""
+
+#: import_demo.php:5
+msgid "Import demo data"
+msgstr ""
+
+#: import_demo.php:106
+msgid "Rentit one page menu"
+msgstr ""
+
+#: import_demo.php:119
+msgid "Blog"
+msgstr ""
+
+#: import_demo.php:126
+msgid "Blog Sidebar Left"
+msgstr ""
+
+#: import_demo.php:134
+msgid "Blog Sidebar Right"
+msgstr ""
+
+#: import_demo.php:142
+msgid "Blog Single Post"
+msgstr ""
+
+#: import_demo.php:180
+msgid "Import was successful. ReActivate all plugins!"
+msgstr ""
+
+#: import_demo.php:195
+msgid "Press the button for import"
+msgstr ""
+
+#: import_demo.php:204
+msgid "All exist data will be deleted!"
+msgstr ""
+
+#: import_demo.php:211
+msgid "Import one page?"
+msgstr ""
+
+#: import_demo.php:220
+msgid "Import"
+msgstr ""
+
+#: index.php:76
+msgid "Events"
+msgstr ""
+
+#: index.php:78 index.php:143 index.php:182
+msgid "Edit"
+msgstr ""
+
+#: index.php:79
+msgid "Add"
+msgstr ""
+
+#: index.php:80
+msgid "View"
+msgstr ""
+
+#: index.php:82
+msgid "Event"
+msgstr ""
+
+#: index.php:94
+msgid "portfolio"
+msgstr ""
+
+#: index.php:102 shortcodes/rentit-vc-post-carousel.php:36
+msgid "Category"
+msgstr ""
+
+#: index.php:138
+msgid "Resources"
+msgstr ""
+
+#: index.php:139
+msgid "Resource"
+msgstr ""
+
+#: index.php:140
+msgctxt "Admin menu name"
+msgid "Resources"
+msgstr ""
+
+#: index.php:141
+msgid "Add Resource"
+msgstr ""
+
+#: index.php:142
+msgid "Add New Resource"
+msgstr ""
+
+#: index.php:144
+msgid "Edit Resource"
+msgstr ""
+
+#: index.php:145
+msgid "New Resource"
+msgstr ""
+
+#: index.php:146 index.php:147
+msgid "View Resource"
+msgstr ""
+
+#: index.php:148
+msgid "Search Resources"
+msgstr ""
+
+#: index.php:149
+msgid "No Resources found"
+msgstr ""
+
+#: index.php:150
+msgid "No Resources found in trash"
+msgstr ""
+
+#: index.php:151
+msgid "Parent Resource"
+msgstr ""
+
+#: index.php:152
+msgid "Resource Image"
+msgstr ""
+
+#: index.php:153 index.php:192
+msgid "Set product image"
+msgstr ""
+
+#: index.php:154 index.php:193
+msgid "Remove product image"
+msgstr ""
+
+#: index.php:155 index.php:194
+msgid "Use as product image"
+msgstr ""
+
+#: index.php:157
+msgid "This is where you can add new resources to your car rental."
+msgstr ""
+
+#: index.php:177
+msgid "Locations"
+msgstr ""
+
+#: index.php:178
+msgid "Location"
+msgstr ""
+
+#: index.php:179
+msgctxt "Admin menu name"
+msgid "Locations"
+msgstr ""
+
+#: index.php:180
+msgid "Add Location"
+msgstr ""
+
+#: index.php:181
+msgid "Add New Location"
+msgstr ""
+
+#: index.php:183
+msgid "Edit Location"
+msgstr ""
+
+#: index.php:184
+msgid "New Location"
+msgstr ""
+
+#: index.php:185 index.php:186
+msgid "View Location"
+msgstr ""
+
+#: index.php:187
+msgid "Search Locations"
+msgstr ""
+
+#: index.php:188
+msgid "No Locations found"
+msgstr ""
+
+#: index.php:189
+msgid "No Locations found in trash"
+msgstr ""
+
+#: index.php:190
+msgid "Parent Location"
+msgstr ""
+
+#: index.php:191
+msgid "Location Image"
+msgstr ""
+
+#: index.php:196
+msgid "This is where you can add new locations to your car rental coverage."
+msgstr ""
+
+#: index.php:230 index.php:233
+msgid "Product Group"
+msgstr ""
+
+#: index.php:232
+msgid "Product Groups"
+msgstr ""
+
+#: index.php:234
+msgctxt "Admin menu name"
+msgid "Groups"
+msgstr ""
+
+#: index.php:235
+msgid "Search Product Groups"
+msgstr ""
+
+#: index.php:236
+msgid "All Product Groups"
+msgstr ""
+
+#: index.php:237
+msgid "Parent Product Group"
+msgstr ""
+
+#: index.php:238
+msgid "Parent Product Category:"
+msgstr ""
+
+#: index.php:239
+msgid "Edit Product Group"
+msgstr ""
+
+#: index.php:240
+msgid "Update Product Group"
+msgstr ""
+
+#: index.php:241
+msgid "Add New Product Group"
+msgstr ""
+
+#: index.php:242
+msgid "New Product Category Name"
+msgstr ""
+
+#: index.php:253
+msgctxt "slug"
+msgid "product-group"
+msgstr ""
+
+#: index.php:292
+msgid "You have chosen "
+msgstr ""
+
+#: index.php:294
+msgid ", Please proceed to, "
+msgstr ""
+
+#: index.php:295
+msgid "checkout"
+msgstr ""
+
+#: index.php:296
+msgid " to confirm your booking"
+msgstr ""
+
+#: register_auth.php:43
+msgid "Invalid email address"
+msgstr ""
+
+#: register_auth.php:49
+msgid "password should be longer than 8 characters"
+msgstr ""
+
+#: register_auth.php:53
+msgid "user already exists, try a different login"
+msgstr ""
+
+#: shortcodes/CONTACT_US.php:44 shortcodes/contact-form.php:72
+#: shortcodes/contact-form.php:280
+msgid "Name is required"
+msgstr ""
+
+#: shortcodes/CONTACT_US.php:51 shortcodes/CONTACT_US.php:53
+#: shortcodes/contact-form.php:83 shortcodes/contact-form.php:86
+#: shortcodes/contact-form.php:291 shortcodes/contact-form.php:294
+#: shortcodes/team.php:200
+msgid "Email"
+msgstr ""
+
+#: shortcodes/CONTACT_US.php:54 shortcodes/SUBSCRIBE_block.php:32
+#: shortcodes/contact-form.php:87 shortcodes/contact-form.php:296
+msgid "Email is required"
+msgstr ""
+
+#: shortcodes/CONTACT_US.php:61 shortcodes/CONTACT_US.php:63
+#: shortcodes/contact-form.php:99 shortcodes/contact-form.php:102
+#: shortcodes/contact-form.php:308 shortcodes/contact-form.php:311
+msgid "Subject"
+msgstr ""
+
+#: shortcodes/CONTACT_US.php:64 shortcodes/contact-form.php:103
+#: shortcodes/contact-form.php:313
+msgid "Subject is required"
+msgstr ""
+
+#: shortcodes/CONTACT_US.php:70 shortcodes/CONTACT_US.php:72
+#: shortcodes/contact-form.php:110 shortcodes/contact-form.php:113
+#: shortcodes/contact-form.php:320 shortcodes/contact-form.php:323
+msgid "Message"
+msgstr ""
+
+#: shortcodes/CONTACT_US.php:73 shortcodes/contact-form.php:115
+#: shortcodes/contact-form.php:325
+msgid "Message is required"
+msgstr ""
+
+#: shortcodes/CONTACT_US.php:81 shortcodes/contact-form.php:124
+#: shortcodes/contact-form.php:335
+msgid "Send message"
+msgstr ""
+
+#: shortcodes/Recent_Blog_Posts.php:94
+msgid "By "
+msgstr ""
+
+#: shortcodes/Rental_Fleet_cars.php:482
+msgid " /per a day"
+msgstr ""
+
+#: shortcodes/Rental_Offers.php:172
+msgid "Diesel"
+msgstr ""
+
+#: shortcodes/Rental_Offers.php:175
+msgid "Auto"
+msgstr ""
+
+#: shortcodes/SUBSCRIBE_block.php:14 shortcodes/wigets_shortcode.php:348
+msgid "Subscribe"
+msgstr ""
+
+#: shortcodes/SUBSCRIBE_block.php:30 shortcodes/SUBSCRIBE_block.php:32
+msgid "Enter your email here"
+msgstr ""
+
+#: shortcodes/contact-form.php:151 shortcodes/rentit-vc-post-carousel.php:10
+#: shortcodes/shortcodes.php:368
+msgid "All"
+msgstr ""
+
+#: shortcodes/contact-form.php:163
+msgid "Rent It contact form 2"
+msgstr ""
+
+#: shortcodes/contact-form.php:167
+msgid "Contact form"
+msgstr ""
+
+#: shortcodes/contact-form.php:217
+msgid "Label  E.g. Adress: 1600 Pennsylvania Ave NW, Washington, D.C. "
+msgstr ""
+
+#: shortcodes/map_1.php:53 shortcodes/on-gmap.php:54 shortcodes/on-gmap.php:69
+#: shortcodes/slider-filter1.php:128 shortcodes/slider-filter1.php:169
+#: shortcodes/slider-filter1.php:309 shortcodes/slider-filter1.php:327
+#: shortcodes/slider-filter1.php:502 shortcodes/slider-filter1.php:527
+#: shortcodes/slider-filter1.php:835 shortcodes/slider-filter1.php:860
+msgid "Airport or Anywhere"
+msgstr ""
+
+#: shortcodes/map_1.php:64 shortcodes/on-gmap.php:89 shortcodes/on-gmap.php:110
+#: shortcodes/slider-filter1.php:145 shortcodes/slider-filter1.php:186
+#: shortcodes/slider-filter1.php:353 shortcodes/slider-filter1.php:376
+#: shortcodes/slider-filter1.php:548 shortcodes/slider-filter1.php:570
+#: shortcodes/slider-filter1.php:882 shortcodes/slider-filter1.php:905
+msgid "dd/mm/yyyy"
+msgstr ""
+
+#: shortcodes/map_1.php:75
+msgid "Select Car Group"
+msgstr ""
+
+#: shortcodes/on-gmap.php:62 shortcodes/slider-filter1.php:159
+#: shortcodes/slider-filter1.php:323 shortcodes/slider-filter1.php:519
+#: shortcodes/slider-filter1.php:852 wc_CustomData.php:523
+#: wc_CustomData.php:565
+msgid "Dropping Off Location"
+msgstr ""
+
+#: shortcodes/on-gmap.php:82 shortcodes/slider-filter1.php:136
+#: shortcodes/slider-filter1.php:345 shortcodes/slider-filter1.php:540
+#: shortcodes/slider-filter1.php:873
+msgid " Picking Up Date"
+msgstr ""
+
+#: shortcodes/on-gmap.php:103 shortcodes/slider-filter1.php:177
+#: shortcodes/slider-filter1.php:367 shortcodes/slider-filter1.php:562
+#: shortcodes/slider-filter1.php:896 wc_CustomData.php:563
+msgid "Dropping Off Date"
+msgstr ""
+
+#: shortcodes/on-gmap.php:124 shortcodes/slider-filter1.php:206
+#: shortcodes/slider-filter1.php:393 shortcodes/slider-filter1.php:587
+#: shortcodes/slider-filter1.php:922
+msgid " Advanced Search"
+msgstr ""
+
+#: shortcodes/rentit-vc-post-carousel.php:21
+msgid "Rent It Post Carousel"
+msgstr ""
+
+#: shortcodes/rentit-vc-post-carousel.php:25
+msgid "Animated carousel for blog posts."
+msgstr ""
+
+#: shortcodes/rentit-vc-post-carousel.php:37
+msgid "Select product category."
+msgstr ""
+
+#: shortcodes/rentit-vc-post-carousel.php:41
+msgid "Maximum posts limit"
+msgstr ""
+
+#: shortcodes/rentit-vc-post-carousel.php:46
+msgid "Image size (in pixel)"
+msgstr ""
+
+#: shortcodes/rentit-vc-post-carousel.php:47
+msgid "WIDTH, HEIGHT. Example: <em>600,260</em>"
+msgstr ""
+
+#: shortcodes/rentit-vc-simple-message-box.php:103
+msgid "Message Content"
+msgstr ""
+
+#: shortcodes/rentit-vc-simple-message-box.php:108
+msgid "Background Color"
+msgstr ""
+
+#: shortcodes/rentit-vc-simple-message-box.php:115
+msgid "Button Label"
+msgstr ""
+
+#: shortcodes/rentit-vc-simple-message-box.php:122
+msgid "Button URL"
+msgstr ""
+
+#: shortcodes/rentit-vc-simple-message-box.php:134
+msgid "Rent It Simple Message Box"
+msgstr ""
+
+#: shortcodes/rentit-vc-tabs.php:16
+msgid "Disable default tab styles?"
+msgstr ""
+
+#: shortcodes/rentit-vc-tabs.php:21
+msgid "Enable solid bar?"
+msgstr ""
+
+#: shortcodes/rentit_tabs.php:487
+msgid "Rentit Tabs"
+msgstr ""
+
+#: shortcodes/rentit_tabs.php:496
+msgid "Tabbed content"
+msgstr ""
+
+#: shortcodes/rentit_tabs.php:509
+msgid "Modern"
+msgstr ""
+
+#: shortcodes/rentit_tabs.php:510
+msgid "Flat"
+msgstr ""
+
+#: shortcodes/rentit_tabs.php:511
+msgid "Outline"
+msgstr ""
+
+#: shortcodes/rentit_tabs.php:513 shortcodes/rentit_vc_button.php:166
+msgid "Style"
+msgstr ""
+
+#: shortcodes/rentit_tabs.php:514
+msgid "Select tabs display style."
+msgstr ""
+
+#: shortcodes/rentit_tabs.php:520
+msgid "Rounded"
+msgstr ""
+
+#: shortcodes/rentit_tabs.php:521
+msgid "Square"
+msgstr ""
+
+#: shortcodes/rentit_tabs.php:522
+msgid "Round"
+msgstr ""
+
+#: shortcodes/rentit_tabs.php:524
+msgid "Shape"
+msgstr ""
+
+#: shortcodes/rentit_tabs.php:525
+msgid "Select tabs shape."
+msgstr ""
+
+#: shortcodes/rentit_tabs.php:530
+msgid "Color"
+msgstr ""
+
+#: shortcodes/rentit_tabs.php:531
+msgid "Select tabs color."
+msgstr ""
+
+#: shortcodes/rentit_tabs.php:539
+msgid "Do not fill content area?"
+msgstr ""
+
+#: shortcodes/rentit_tabs.php:540
+msgid "Do not fill content area with color."
+msgstr ""
+
+#: shortcodes/rentit_tabs.php:546 shortcodes/rentit_tabs.php:567
+#: shortcodes/rentit_tabs.php:608 shortcodes/rentit_tabs.php:636
+msgid "None"
+msgstr ""
+
+#: shortcodes/rentit_tabs.php:559
+msgid "Spacing"
+msgstr ""
+
+#: shortcodes/rentit_tabs.php:560
+msgid "Select tabs spacing."
+msgstr ""
+
+#: shortcodes/rentit_tabs.php:580
+msgid "Gap"
+msgstr ""
+
+#: shortcodes/rentit_tabs.php:581
+msgid "Select tabs gap."
+msgstr ""
+
+#: shortcodes/rentit_tabs.php:587
+msgid "Top"
+msgstr ""
+
+#: shortcodes/rentit_tabs.php:588
+msgid "Bottom"
+msgstr ""
+
+#: shortcodes/rentit_tabs.php:590 shortcodes/team.php:172
+msgid "Position"
+msgstr ""
+
+#: shortcodes/rentit_tabs.php:591
+msgid "Select tabs navigation position."
+msgstr ""
+
+#: shortcodes/rentit_tabs.php:601
+msgid "Alignment"
+msgstr ""
+
+#: shortcodes/rentit_tabs.php:602
+msgid "Select tabs section title alignment."
+msgstr ""
+
+#: shortcodes/rentit_tabs.php:622
+msgid "Autoplay"
+msgstr ""
+
+#: shortcodes/rentit_tabs.php:623
+msgid "Select auto rotate for tabs in seconds (Note: disabled by default)."
+msgstr ""
+
+#: shortcodes/rentit_tabs.php:628
+msgid "Active section"
+msgstr ""
+
+#: shortcodes/rentit_tabs.php:630
+msgid ""
+"Enter active section number (Note: to have all sections closed on initial "
+"load enter non-existing number)."
+msgstr ""
+
+#: shortcodes/rentit_tabs.php:637
+msgid "Square Dots"
+msgstr ""
+
+#: shortcodes/rentit_tabs.php:638
+msgid "Radio Dots"
+msgstr ""
+
+#: shortcodes/rentit_tabs.php:639
+msgid "Point Dots"
+msgstr ""
+
+#: shortcodes/rentit_tabs.php:640
+msgid "Fill Square Dots"
+msgstr ""
+
+#: shortcodes/rentit_tabs.php:641
+msgid "Rounded Fill Square Dots"
+msgstr ""
+
+#: shortcodes/rentit_tabs.php:643
+msgid "Pagination style"
+msgstr ""
+
+#: shortcodes/rentit_tabs.php:644
+msgid "Select pagination style."
+msgstr ""
+
+#: shortcodes/rentit_tabs.php:650
+msgid "Pagination color"
+msgstr ""
+
+#: shortcodes/rentit_tabs.php:651
+msgid "Select pagination color."
+msgstr ""
+
+#: shortcodes/rentit_tabs.php:661
+msgid "Extra class name"
+msgstr ""
+
+#: shortcodes/rentit_tabs.php:663
+msgid ""
+"If you wish to style particular content element differently, then use this "
+"field to add a class name and then refer to it in your css file."
+msgstr ""
+
+#: shortcodes/rentit_tabs.php:667
+msgid "CSS box"
+msgstr ""
+
+#: shortcodes/rentit_tabs.php:669
+msgid "Design Options"
+msgstr ""
+
+#: shortcodes/rentit_tabs.php:687 shortcodes/rentit_tabs.php:688
+msgid "Tab"
+msgstr ""
+
+#: shortcodes/rentit_vc_button.php:109
+msgid "Rent It Button"
+msgstr ""
+
+#: shortcodes/rentit_vc_button.php:119
+msgid "Link"
+msgstr ""
+
+#: shortcodes/rentit_vc_button.php:125
+msgid "Unique Class"
+msgstr ""
+
+#: shortcodes/rentit_vc_button.php:134
+msgid "Size"
+msgstr ""
+
+#: shortcodes/rentit_vc_button.php:136
+msgid "Default"
+msgstr ""
+
+#: shortcodes/rentit_vc_button.php:137
+msgid "Large"
+msgstr ""
+
+#: shortcodes/rentit_vc_button.php:138
+msgid "Small"
+msgstr ""
+
+#: shortcodes/rentit_vc_button.php:139
+msgid "Extra Small"
+msgstr ""
+
+#: shortcodes/rentit_vc_button.php:146
+msgid "Text Color"
+msgstr ""
+
+#: shortcodes/rentit_vc_button.php:151
+msgid "Hover Text Color"
+msgstr ""
+
+#: shortcodes/rentit_vc_button.php:156
+msgid "Normal Background Color"
+msgstr ""
+
+#: shortcodes/rentit_vc_button.php:161
+msgid "Hover Background Color"
+msgstr ""
+
+#: shortcodes/rentit_vc_button.php:168
+msgid "Solid"
+msgstr ""
+
+#: shortcodes/rentit_vc_button.php:169
+msgid "Bordered"
+msgstr ""
+
+#: shortcodes/rentit_vc_button.php:175
+msgid "Border Color"
+msgstr ""
+
+#: shortcodes/rentit_vc_button.php:184
+msgid "Hover Border Color"
+msgstr ""
+
+#: shortcodes/shortcodes.php:93
+msgid "See All Posts"
+msgstr ""
+
+#: shortcodes/slider-filter1.php:790
+msgid "Reserve "
+msgstr ""
+
+#: shortcodes/slider-filter1.php:793
+msgid "o\tModify / Cancel "
+msgstr ""
+
+#: shortcodes/slider-filter1.php:947 shortcodes/slider-filter1.php:952
+msgid "Reservation Number"
+msgstr ""
+
+#: shortcodes/slider-filter1.php:966 shortcodes/slider-filter1.php:971
+msgid "Last name"
+msgstr ""
+
+#: shortcodes/slider-filter1.php:986
+msgid "Proceed"
+msgstr ""
+
+#: shortcodes/statistics.php:22
+msgid "Total car count"
+msgstr ""
+
+#: shortcodes/team.php:156
+msgid "Avatar"
+msgstr ""
+
+#: shortcodes/team.php:166
+msgid "Team member name."
+msgstr ""
+
+#: shortcodes/team.php:178
+msgid "Socials"
+msgstr ""
+
+#: shortcodes/team.php:186
+msgid ""
+"Put a Font Awesome https://fortawesome.github.io/Font-Awesome/cheatsheet/ "
+"icon class name. Example: fa-home"
+msgstr ""
+
+#: shortcodes/team.php:191
+msgid "URL"
+msgstr ""
+
+#: shortcodes/team.php:213
+msgid "Label"
+msgstr ""
+
+#: shortcodes/team.php:215
+msgid "Label for contact. E.g. Skype"
+msgstr ""
+
+#: shortcodes/team.php:220
+msgid "Address"
+msgstr ""
+
+#: shortcodes/team.php:222
+msgid "Contact address."
+msgstr ""
+
+#: shortcodes/team.php:231
+msgid "Bio"
+msgstr ""
+
+#: shortcodes/team.php:241
+msgid "CSS class."
+msgstr ""
+
+#: shortcodes/team.php:252
+msgid "Rent It Team"
+msgstr ""
+
+#: shortcodes/wigets_shortcode.php:17 shortcodes/wigets_shortcode.php:42
+#: shortcodes/wigets_shortcode.php:78 shortcodes/wigets_shortcode.php:112
+#: shortcodes/wigets_shortcode.php:151 shortcodes/wigets_shortcode.php:184
+#: shortcodes/wigets_shortcode.php:218 shortcodes/wigets_shortcode.php:253
+#: shortcodes/wigets_shortcode.php:430 shortcodes/wigets_shortcode.php:463
+#: shortcodes/wigets_shortcode.php:470
+msgid "sidebar"
+msgstr ""
+
+#: shortcodes/wigets_shortcode.php:65
+msgid "TWEETS"
+msgstr ""
+
+#: shortcodes/wigets_shortcode.php:101
+msgid "archives"
+msgstr ""
+
+#: shortcodes/wigets_shortcode.php:274
+msgid "ABOUT US"
+msgstr ""
+
+#: shortcodes/wigets_shortcode.php:290 shortcodes/wigets_shortcode.php:324
+#: shortcodes/wigets_shortcode.php:364 shortcodes/wigets_shortcode.php:397
+#: shortcodes/wigets_shortcode.php:572
+msgid "Footer area"
+msgstr ""
+
+#: shortcodes/wigets_shortcode.php:347
+msgid "Enter Your Mail and Get $10 Cash"
+msgstr ""
+
+#: wc_CustomData.php:250
+msgid "Day(s)"
+msgstr ""
+
+#: wc_CustomData.php:254
+msgid "Hour(s)"
+msgstr ""
+
+#: wc_CustomData.php:280
+msgid "Free"
+msgstr ""
+
+#: wc_CustomData.php:284
+msgid "Total"
+msgstr ""
+
+#: wc_CustomData.php:288
+msgid "Included"
+msgstr ""
+
+#: wc_CustomData.php:520
+msgid "Rent data"
+msgstr ""
+
+#: wc_CustomData.php:521
+msgid "Start"
+msgstr ""
+
+#: wc_CustomData.php:521
+msgid "End"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Rentit"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Victor Lerner"
+msgstr ""
