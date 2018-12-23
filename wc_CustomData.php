@@ -147,8 +147,8 @@ function rentit_get_two_season_price_by_between_two_days( $product_id, $star_dat
 
 	$days = rentit_DateDiff( 'd', strtotime( $star_date ), strtotime( $end_date ) );
 	$hour = rentit_DateDiff( 'h', strtotime( $star_date ), strtotime( $end_date ) );
-	var_dump($star_date);
-	var_dump($end_date);
+	//var_dump($star_date);
+	//var_dump($end_date);
 
 	if ( $days < 1 ) {
 		$days = 1;
@@ -158,7 +158,7 @@ function rentit_get_two_season_price_by_between_two_days( $product_id, $star_dat
 	$end_date = strtotime( $end_date );
 	if ( $season_date ) {
 		foreach ( $season_date as $key => $date ) {
-			var_dump($date);
+			//var_dump($date);
 			if(!isset($date['start_date']{1}) || !isset($date['end_date']{1}) ) continue;
 
 
@@ -174,11 +174,11 @@ function rentit_get_two_season_price_by_between_two_days( $product_id, $star_dat
 			if ( ( $end_date > $contractDateBegin && $end_date < $contractDateEnd )  ) {
 
 
-				echo '22222222222222222';
-				var_dump($date);
+				//echo '22222222222222222';
+				//var_dump($date);
 			}
-			var_dump($end_date);
-			var_dump($contractDateBegin);
+			//var_dump($end_date);
+			//var_dump($contractDateBegin);
 //			echo '111111111111111111';
 //			var_dump($end_date);
 
@@ -247,10 +247,10 @@ function rentit_add_user_custom_data_options_callback() {
 	$dropin_int = strtotime( $dropin_date );
 	$mont = date( 'n', $dropoff_int );
 
+	
 	//dates
 	$days = rentit_DateDiff( 'd', $dropin_int, $dropoff_int );
 	$hour = rentit_DateDiff( 'h', $dropin_int, $dropoff_int );
-
 
 	if ( $days < 1 ) {
 		$days = 1;
@@ -595,14 +595,16 @@ function rentit_add_user_custom_data_options_callback() {
 	@$product_id = @$_POST['id']; //This is product ID
 	@$custom_data_1 = @$_POST['custom_data_1']; //This is User custom value sent via AJAX
 
-
-//	var_dump($array);
+	//	var_dump($array);
 	@session_start();
-
-
+	/*MYEDIT>RentIt_Date_Changer*/
+	//custom_data_1 used for showing data on invoce in cart so we need to make it jalali date and now we use this to change the value and 
+			if(function_exists('RentIt_Date_Changer_before_cart_set_session_custom_data')){
+	$array = RentIt_Date_Changer_before_cart_set_session_custom_data($array);
+			}
+	/*RentIt_Date_Changer<MYEDIT*/
 	$_SESSION['custom_data_1'] = $array;// $array['extras'];
 	$_SESSION['custom_data_2'] = $array;
-
 
 }
 
@@ -687,7 +689,6 @@ if ( !function_exists( 'rentit_add_item_data' ) ) {
 		if ( session_id() == '' ) {
 			@session_start();
 		}
-
 		$new_value = array();
 		@$id = empty( $variation_id ) ? $product_id : $variation_id;
 		@$booking_session = WC()->session->get( 'rentit_booking_data2' );
@@ -702,7 +703,6 @@ if ( !function_exists( 'rentit_add_item_data' ) ) {
 
 		if ( isset( $_SESSION['custom_data_1'] ) ) {
 			$option1 = $_SESSION['custom_data_1'];
-
 			$new_value['custom_data_1'] = $option1;
 		}
 		if ( isset( $_SESSION['custom_data_2'] ) ) {
@@ -758,6 +758,7 @@ add_filter( 'woocommerce_cart_item_price', 'rentit_add_user_custom_option_from_s
 
 if ( !function_exists( 'rentit_add_user_custom_option_from_session_into_cart' ) ) {
 	function rentit_add_user_custom_option_from_session_into_cart( $product_name, $values, $cart_item_key ) {
+		//var_dump($_SESSION);
 		/*code to add custom data on Cart & checkout Page*/
 		if ( isset( $values['custom_data_1'] ) && count( $values['custom_data_1'] ) > 0 ) {
 			$return_string = $product_name . "</a><dl class='variation'>";
@@ -832,12 +833,15 @@ if ( !function_exists( 'rentit_add_values_to_order_item_meta' ) ) {
 
 		);
 
-
 		add_post_meta( $order_id, '_dropin_date', $values['custom_data_1']['dropin_date'], true );
 		add_post_meta( $order_id, '_dropoff_date', $values['custom_data_1']['dropoff_date'], true );
 		add_post_meta( $order_id, '_carr', $values, true );
 		add_post_meta( $order_id, '_product_id', $values["product_id"], true );
-
+		/*MYEDIT>RentIt_Date_Changer*/
+		if(function_exists('rentit_add_values_to_order_item_meta2')){
+			rentit_add_values_to_order_item_meta2($item_id,$order_id,$values);
+		}
+		/*RentIt_Date_Changer<MYEDIT*/
 
 	}
 }
@@ -1062,6 +1066,11 @@ function rentit_init_site() {
 
 
 	}
+	/*MYEDIT>RentIt_Date_Changer*/
+	if(function_exists('RentIt_Date_Changer_before_cart_set_session_custom_data')){			
+		rentit_init_site_modifier();
+	}
+	/*RentIt_Date_Changer<MYEDIT*/
 }
 
 /*
