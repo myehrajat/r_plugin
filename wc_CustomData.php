@@ -599,9 +599,15 @@ function rentit_add_user_custom_data_options_callback() {
 	@session_start();
 	/*MYEDIT>RentIt_Date_Changer*/
 	//custom_data_1 used for showing data on invoce in cart so we need to make it jalali date and now we use this to change the value and 
-			if(function_exists('RentIt_Date_Changer_before_cart_set_session_custom_data')){
-	$array = RentIt_Date_Changer_before_cart_set_session_custom_data($array);
-			}
+	if(function_exists('RentIt_Date_Changer_before_cart_set_session_custom_data')){
+		$array = RentIt_Date_Changer_before_cart_set_session_custom_data($array);
+	}
+	/*RentIt_Date_Changer<MYEDIT*/
+	/*MYEDIT>RentIt_Date_Changer*/
+	//custom_data_1 used for showing data on invoce in cart so we need to make it jalali date and now we use this to change the value and 
+	if(function_exists('Rentit_Extra_Hours_before_cart_set_session_custom_data')){
+		$array = Rentit_Extra_Hours_before_cart_set_session_custom_data($array);
+	}
 	/*RentIt_Date_Changer<MYEDIT*/
 	$_SESSION['custom_data_1'] = $array;// $array['extras'];
 	$_SESSION['custom_data_2'] = $array;
@@ -838,10 +844,15 @@ if ( !function_exists( 'rentit_add_values_to_order_item_meta' ) ) {
 		add_post_meta( $order_id, '_carr', $values, true );
 		add_post_meta( $order_id, '_product_id', $values["product_id"], true );
 		/*MYEDIT>RentIt_Date_Changer*/
-		if(function_exists('rentit_add_values_to_order_item_meta2')){
-			rentit_add_values_to_order_item_meta2($item_id,$order_id,$values);
+		if(function_exists('RentIt_Date_Changer_rentit_add_values_to_order_item_meta')){
+			RentIt_Date_Changer_rentit_add_values_to_order_item_meta($item_id,$order_id,$values);
 		}
 		/*RentIt_Date_Changer<MYEDIT*/
+		/*MYEDIT>Rentit_Extra_Hours*/
+		if(function_exists('Rentit_Extra_Hours_rentit_add_values_to_order_item_meta')){
+			Rentit_Extra_Hours_rentit_add_values_to_order_item_meta($item_id,$order_id,$values);
+		}
+		/*Rentit_Extra_Hours<MYEDIT*/
 
 	}
 }
@@ -1067,10 +1078,15 @@ function rentit_init_site() {
 
 	}
 	/*MYEDIT>RentIt_Date_Changer*/
-	if(function_exists('RentIt_Date_Changer_before_cart_set_session_custom_data')){			
-		rentit_init_site_modifier();
+	if(function_exists('RentIt_Date_Changer_rentit_init_site_modifier')){			
+		RentIt_Date_Changer_rentit_init_site_modifier();
 	}
 	/*RentIt_Date_Changer<MYEDIT*/
+	/*MYEDIT>Rentit_Extra_Hours*/
+	if(function_exists('Rentit_Extra_Hours_rentit_init_site_modifier')){			
+		Rentit_Extra_Hours_rentit_init_site_modifier();
+	}
+	/*Rentit_Extra_Hours<MYEDIT*/
 }
 
 /*
